@@ -1,0 +1,40 @@
+.header__main {
+    display: flex;
+    width: 100vw;
+    height: 100px;
+    justify-content: space-between;
+    background-color: aliceblue;
+}
+
+.header__left {
+    display: flex;
+    padding: 10px 10px;
+    cursor: pointer;
+}
+
+.header__left p {
+    color: #000000;
+    font-size: 25px;
+    font-weight: 800;
+    padding-left: 10px;
+}
+
+.header__right {
+    display: flex;
+    align-items: center;
+}
+
+.header__right button {
+    height: 42px;
+    background-color: #4d4d4d;
+}
+
+.header__right button:hover {
+    background-color: #777777;
+}
+
+.header__right p {
+    color: black;
+    margin: 0 20px;
+    font-size: 18px;
+}

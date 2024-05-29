@@ -1,0 +1,21 @@
+.product__main {
+    display: flex;
+    flex-direction: column;
+    border: 1px solid #ffffff;
+    margin: 10px;
+    width: 310px;
+    border-radius: 5px;
+}
+
+.product__main img {
+    width: 300px;
+    height: 300px;
+    object-fit: none;
+    padding: 5px;
+    cursor: pointer;
+}
+
+.product__main p {
+    text-align: center;
+    font-size: 18px;
+}

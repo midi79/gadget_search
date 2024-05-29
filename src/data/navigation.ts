@@ -1,0 +1,80 @@
+export const navData = [
+    {
+        id: 1,
+        category: "smartphones",
+        title: "Smartphone",
+        path: "/smartphones",
+    },
+    {
+        id: 2,
+        category: "laptops",
+        title: "Laptop",
+        path: "/laptops",
+    },
+    {
+        id: 3,
+        category: "fragrances",
+        title: "Fragrances",
+        path: "/fragrances",
+    },
+    {
+        id: 4,
+        category: "skin-care",
+        title: "Skincare",
+        path: "/skin-care",
+    },
+    {
+        id: 5,
+        category: "groceries",
+        title: "Grocery",
+        path: "/groceries",
+    },
+    {
+        id: 6,
+        category: "home-decoration",
+        title: "Home Decoration",
+        path: "/home-decoration",
+    },
+    {
+        id: 7,
+        category: "furniture",
+        title: "Furniture",
+        path: "/furniture",
+    },
+    // {
+    //     id: 8,
+    //     category: ["womens-dresses", "womens-shoes", "womens-watches", "womens-bags", "womens-jewellery"],
+    //     title: "Womens",
+    //     path: "/womens",
+    // },
+    // {
+    //     id: 9,
+    //     category: ["mens-shirts", "mens-shoes", "mens-watches"],
+    //     title: "Mens",
+    //     path: "/mens",
+    // },
+    {
+        id: 10,
+        category: "sunglasses",
+        title: "Sunglasses",
+        path: "/sunglasses",
+    },
+    {
+        id: 11,
+        category: "vehicle",
+        title: "Vehicle",
+        path: "/vehicle",
+    },
+    {
+        id: 12,
+        category: "motorcycle",
+        title: "Motorcycle",
+        path: "/motorcycle",
+    },
+    {
+        id: 13,
+        category: "tablets",
+        title: "Tablets",
+        path: "/tablets",
+    },
+];
